@@ -7,7 +7,9 @@ import java.sql.Statement;
 
 import it.ms.api.util.ApplicationProperty;
 import it.ms.api.util.GenericDataSource;
-
+/**
+ * @author m.salvo salvo.mariniello@gmail.com
+ **/
 public class AuthenticatedTables {
 
 	private AuthenticatedTables() {

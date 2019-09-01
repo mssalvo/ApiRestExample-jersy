@@ -6,6 +6,10 @@ import com.sun.jersey.api.client.Client;
 import com.sun.jersey.api.client.ClientResponse;
 import com.sun.jersey.api.client.WebResource;
  
+/**
+ * @author m.salvo salvo.mariniello@gmail.com
+ **/
+
 public class JersyGetClient {
  
     public static void main(String a[]){

@@ -8,6 +8,10 @@ import java.util.Properties;
 import javax.sql.DataSource;
 import org.apache.commons.dbcp.BasicDataSource;
 
+/**
+ * @author m.salvo salvo.mariniello@gmail.com
+ **/
+
 public class GenericDataSource {
 
 	public static DataSource getDataSource() {

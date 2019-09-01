@@ -3,6 +3,10 @@ package it.ms.api.util;
 import java.io.InputStream;
 import java.util.Properties;
 
+/**
+ * @author m.salvo salvo.mariniello@gmail.com
+ **/
+
 public class ApplicationProperty {
 
 	private static ApplicationProperty applicationProperty;

@@ -10,6 +10,9 @@ import javax.ws.rs.core.Response;
 import org.json.JSONException;
 import org.json.JSONObject;
 import sun.misc.BASE64Decoder;
+/**
+ * @author m.salvo salvo.mariniello@gmail.com
+ **/
 
 @Path("/profilo-util")
 public class Profilo {

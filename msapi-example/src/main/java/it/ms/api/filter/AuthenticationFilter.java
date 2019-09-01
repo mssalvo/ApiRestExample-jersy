@@ -16,7 +16,9 @@ import javax.servlet.http.HttpServletResponse;
 
 import it.ms.api.util.ApplicationProperty;
 import sun.misc.BASE64Decoder;
-
+/**
+ * @author m.salvo salvo.mariniello@gmail.com
+ **/
 @WebFilter("/AuthenticationFilter")
 public class AuthenticationFilter implements Filter {
 
