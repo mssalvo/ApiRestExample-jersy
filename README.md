@@ -1,7 +1,7 @@
 # ApiRestExample-jersy
 apirestexample-jersy
 
-Example of api rest with Basic authentication
+## Example of api rest with Basic authentication
 
 **In the project you will find a complete example of rest calls**
 
