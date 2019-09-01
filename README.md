@@ -1,5 +1,5 @@
 # ApiRestExample-jersy
-apirestexample-jersy
+
 
 ## Example of api rest with Basic authentication
 
